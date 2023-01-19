@@ -1,3 +1,4 @@
+# The following challenge is solved by Md1amiin (Mohamed Abdilahi Muse)
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
