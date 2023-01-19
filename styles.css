@@ -159,7 +159,7 @@ button:hover {
   @media screen and (min-width: 600px) {
     .product {
         width: 37rem;
-        height: 27rem;
+        height: 28rem;
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
